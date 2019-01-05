@@ -3,7 +3,6 @@
 ### Materials
 
 * [web page](http://math.fme.vutbr.cz/Home/downloads?id_item_user=11&beta=1)
-
 * [01_Zaklady_matematicke_logiky.pdf](https://github.com/europ/VUTBR-FIT-MAT/blob/master/materials/01_Zaklady_matematicke_logiky.pdf)
 * [02_Zaklady_obecne_algebry.pdf](https://github.com/europ/VUTBR-FIT-MAT/blob/master/materials/02_Zaklady_obecne_algebry.pdf)
 * [03_Zaklady_funkcionalni_analyzy.pdf](https://github.com/europ/VUTBR-FIT-MAT/blob/master/materials/03_Zaklady_funkcionalni_analyzy.pdf)
@@ -26,15 +25,15 @@
 
 * [masopust](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust)
   * [konzultace](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace)
-    * [1](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat01.pdf)
-    * [2](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat02.pdf)
-    * [3](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat03.pdf) + [reseni](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat03_reseni.pdf)
-    * [4](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat04.pdf) + [reseni](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat04_reseni.pdf)
-    * [5](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat05.pdf)
-    * [6](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat06.pdf)
+    * [Konzultace 1](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat01.pdf)
+    * [Konzultace 2](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat02.pdf)
+    * [Konzultace 3](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat03.pdf) + [reseni](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat03_reseni.pdf)
+    * [Konzultace 4](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat04.pdf) + [reseni](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat04_reseni.pdf)
+    * [Konzultace 5](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat05.pdf)
+    * [Konzultace 6](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat06.pdf)
   * [logika](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/logika)
-    * [cvičení](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/logika/cviceni%20logika.pdf)
-    * [príklady](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/logika/matematicka%20logika-cviceni.pdf)
+    * [cvičení](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/logika/cviceni_logika.pdf)
+    * [príklady](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/logika/matematicka_logika-cviceni.pdf)
   * [algebra](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/algebra)
     * [Základy univerzální algebry](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/algebra/Algebra.pdf)
     * [Příklady z univerzální algebry](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/algebra/algebracviceni.pdf)

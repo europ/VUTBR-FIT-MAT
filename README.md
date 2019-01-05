@@ -13,10 +13,15 @@
 * [MAT_semestralka_shared_document_2015_2016_old.pdf](https://github.com/europ/VUTBR-FIT-MAT/blob/master/google/MAT_semestralka_shared_document_2015_2016_old.pdf)
 * [MAT_shared.pdf](https://github.com/europ/VUTBR-FIT-MAT/blob/master/google/MAT_shared.pdf)
 
+#### masopust
+
+* [www.fit.vutbr.cz/~masopust/MAT](http://www.fit.vutbr.cz/~masopust/MAT/)
+
 ### Source
 
 * https://github.com/metthal/FIT-notes
 * https://github.com/mmsrubar/MAT-sbirka-prikladu
+* http://www.fit.vutbr.cz/~masopust/MAT/
 
 ## Contributing
 

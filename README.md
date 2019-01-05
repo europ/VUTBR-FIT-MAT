@@ -2,6 +2,15 @@
 
 ### Materials
 
+* [web page](http://math.fme.vutbr.cz/Home/downloads?id_item_user=11&beta=1)
+
+* [01_Zaklady_matematicke_logiky.pdf](https://github.com/europ/VUTBR-FIT-MAT/blob/master/materials/01_Zaklady_matematicke_logiky.pdf)
+* [02_Zaklady_obecne_algebry.pdf](https://github.com/europ/VUTBR-FIT-MAT/blob/master/materials/02_Zaklady_obecne_algebry.pdf)
+* [03_Zaklady_funkcionalni_analyzy.pdf](https://github.com/europ/VUTBR-FIT-MAT/blob/master/materials/03_Zaklady_funkcionalni_analyzy.pdf)
+* [04_Grafy_1.pdf](https://github.com/europ/VUTBR-FIT-MAT/blob/master/materials/04_Grafy_1.pdf)
+* [05_Grafy_2.pdf](https://github.com/europ/VUTBR-FIT-MAT/blob/master/materials/05_Grafy_2.pdf)
+* [06_Grafy_3.pdf](https://github.com/europ/VUTBR-FIT-MAT/blob/master/materials/06_Grafy_3.pdf)
+
 #### GitHub
 
 * [MAT_github_metthal_FIT-notes-mat.pdf](https://github.com/europ/VUTBR-FIT-MAT/blob/master/github/MAT_github_metthal_FIT-notes-mat.pdf)
@@ -15,7 +24,21 @@
 
 #### masopust
 
-* [www.fit.vutbr.cz/~masopust/MAT](http://www.fit.vutbr.cz/~masopust/MAT/)
+* [masopust](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust)
+  * [konzultace](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace)
+    * [1](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat01.pdf)
+    * [2](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat02.pdf)
+    * [3](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat03.pdf) + [reseni](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat03_reseni.pdf)
+    * [4](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat04.pdf) + [reseni](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat04_reseni.pdf)
+    * [5](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat05.pdf)
+    * [6](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/konzultace/mat06.pdf)
+  * [logika](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/logika)
+    * [cvičení](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/logika/cviceni%20logika.pdf)
+    * [príklady](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/logika/matematicka%20logika-cviceni.pdf)
+  * [algebra](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/algebra)
+    * [Základy univerzální algebry](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/algebra/Algebra.pdf)
+    * [Příklady z univerzální algebry](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/algebra/algebracviceni.pdf)
+    * [Grupy a okruhy](https://github.com/europ/VUTBR-FIT-MAT/blob/master/masopust/algebra/Grupy_a_okruhy.zip)
 
 ### Source
 

@@ -45,6 +45,14 @@
 * https://github.com/mmsrubar/MAT-sbirka-prikladu
 * http://www.fit.vutbr.cz/~masopust/MAT/
 
+### Exams
+
+#### 2018/2019
+
+* [1. termín (skupina C)](https://github.com/europ/VUTBR-FIT-MAT/blob/master/exams/1_termin_C_2018-2019/1_termin_C_2018-2019.pdf)
+* [2. termín (skupina C)](https://github.com/europ/VUTBR-FIT-MAT/blob/master/exams/2_termin_C_2018-2019/2_termin_C_2018-2019.pdf)
+* [3. termín (skupina D)](https://github.com/europ/VUTBR-FIT-MAT/blob/master/exams/3_termin_D_2018-2019/3_termin_D_2018-2019.pdf)
+
 ### SMT - Seminar of Mathematical Structures
 
 #### [SMT 2018/2019](https://www.fit.vutbr.cz/study/courses/index.php.en?id=12926)

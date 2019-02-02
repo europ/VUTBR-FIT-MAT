@@ -1,0 +1,84 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[left=2cm,text={17cm,24cm},top=2cm]{geometry}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+
+\pagenumbering{gobble}
+\setlength\parindent{0pt}
+
+\begin{document}
+
+\begin{center}
+  \begin{bf}
+    \Huge{MAT}\\[-0.5em]
+    {\normalsize\normalfont{1. termín 2018/2019}}\\[0.5em]
+
+    \Large{skupina C}\\[-0.25em]
+    {\normalsize\normalfont{(žltý papier)}}\\[1em]
+
+    9. január 2019
+  \end{bf}
+\end{center}
+
+\hrule
+
+\subsection*{1 príklad (10b)}
+
+  V jazyce teorie grupoidů s funkčním symbolem $f$ uveďte formuli, která je negací zákona o krácení převedenou do prenexního tvaru.\\
+
+  \hrule
+
+\subsection*{2 príklad (15b)}
+
+  Buď \emph{L} jazyk s rovností, unárním funkčním symbolem \emph{f} a ternárním predikátovým symbolem \emph{p}. Uvažujme formule: $\varphi \equiv p(x,y,z) \rightarrow p(z,y,x)$, $\chi \equiv (x,y,x) \rightarrow x = y$, $\psi \equiv p(x, f(x), f(f(x)))$ a teorii $T = \lbrace \varphi, \chi, \psi \rbrace$.\\[2mm]
+  (1) Nechť $\mathcal{M}$ je realizace jazyka L, jejímž univerzem je množina $\mathbb{R}$ všech reálných čísel, kde $f_{\mathcal{M}}(a) = a^2$ a $p_\mathcal{M}(a,b,c) \Leftrightarrow a \leq b \leq c$. Rozhodněte a) zda $\mathcal{M} \models \varphi$ , b) při jakém ohodnocení proměnných $e$ platí $\mathcal{M} \models \chi[e]$, c) zda $\mathcal{M} \models \neg \psi$.\\[2mm]
+  (2) V realizaci $M$ navrhnete univerzum $\mathbb{R}$ nějakou jeho prodmožinu tak, aby vznikla realizace $\mathcal{M}'$, pro kterou bude platit $\mathcal{M}' \models T$.\\
+
+  \hrule
+
+\subsection*{3 príklad (15b)}
+
+  Uvažujme grupoid $\mathcal{A} = (\mathbb{Z}, \ast)$, kde $x \ast y = \lfloor \frac{x+y}{2} \rfloor$ a $\lfloor x \rfloor$ značí dolní celou část reálného čísla $x$ (tj. největší celé číslo $y$ s vlastností $y \leq x$). Dále uvažujme grupoid $\mathcal{B} = (\mathbb{R}, \star)$ kde $x \star y = \frac{x+y}{2}$.\\[2mm]
+  (1) Popište podgrupoid grupoidu $\mathcal{A}$ generovaný množinou $\{-2, 5\}$.\\
+  (2) Určete nějaký podgrupoid grupoidu $\mathcal{B}$, který je homomorfním obrazem grupoidu $\mathcal{A}$.\\
+
+  \hrule
+
+\subsection*{4 príklad (15b)}
+
+  Napište tabulku operace násobení v $GF(4)$. Jako ireducibilní polynom použijte $x^2 + x + 1$ a prvky tělesa $GF(4)$ vyjádřete v tabulce jako vektory se souřadnícemi v bázi $\{1, \alpha\}$, kde $\alpha$ je primitivní prvek.\\
+
+  \hrule
+
+\subsection*{5 príklad (10b)}
+
+  Buď $\rho$ binární relace na množine $X$ a pro libovolné $x,y \in X$ položme
+
+  \begin{center}
+    $d(x,y) = \Bigg\{ \begin{tabular}{@{\hspace{-0.25mm}}l@{,\hspace{5mm}}c@{\hspace{1mm}}l}
+                        $3$ & jestliže & $x \rho y$,\\
+                        $0$ & jestliže & $\neg(x \rho y)$.
+                      \end{tabular}
+    $
+  \end{center}
+
+  Určete nutnou a postačující podmínku (vlastnosť relace $\rho$) pro to, aby $d$ byla metrika na množine $X$.\\
+
+  \hrule
+
+  \newpage
+
+  \hrule
+
+\subsection*{6 príklad (15b)}
+
+  V souvislém rovinném grafu mají všechny uzly stejný stupeň, který je sudý, a počet buněk je 98. Určete počet hran tohoto grafu.\\
+
+  \hrule
+
+\end{document}
